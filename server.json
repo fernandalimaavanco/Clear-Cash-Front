@@ -1,0 +1,47 @@
+{
+  "transactions": [
+    {
+      "description": "Almoço",
+      "price": 150,
+      "categoryId": 3,
+      "createdAt": "2024-11-12",
+      "id": 1
+    },
+    {
+      "description": "Almoço",
+      "price": 150,
+      "categoryId": 2,
+      "createdAt": "2024-11-12",
+      "id": 2
+    },
+    {
+      "description": "Almoço",
+      "price": 150,
+      "categoryId": 4,
+      "createdAt": "2024-11-12",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "description": "FO TE AMO",
+      "entrance": true,
+      "id": 1
+    },
+    {
+      "description": "VUINICIUS",
+      "entrance": false,
+      "id": 2
+    },
+    {
+      "description": "Teste cat",
+      "entrance": true,
+      "id": 3
+    },
+    {
+      "description": "Teste cat 2",
+      "entrance": true,
+      "id": 4
+    }
+  ]
+}
